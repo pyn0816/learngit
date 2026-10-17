@@ -1,0 +1,3 @@
+select device_id as user_infos_example
+from user_profile
+where id<=2
